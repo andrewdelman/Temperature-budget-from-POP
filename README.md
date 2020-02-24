@@ -6,7 +6,7 @@ This repository consists of a suite of scripts and functions that can be run in 
 
 The reference for these scripts/functions is as follows (please cite if using or adapting this code):
 
-Delman, A. S., J. L. McClean, J. Sprintall, L. D. Talley, and F. O. Bryan (2018), Process-specific contributions to anomalous Java mixed layer cooling during positive IOD events, J. Geophys. Res. Oceans, in review, doi:10.1002/2017JC013749.
+Delman, A. S., J. L. McClean, J. Sprintall, L. D. Talley, and F. O. Bryan (2018), Process-specific contributions to anomalous Java mixed layer cooling during positive IOD events, J. Geophys. Res. Oceans, 123. https://doi.org/10.1029/2017JC013749.
 
 The included .tar archives contain the .m files necessary to reproduce figures in the analysis of the paper (or analogous figures for different regions and processes).  It is recommended to keep the .m files in each .tar file in the same directory so that functions are called without errors.
 
